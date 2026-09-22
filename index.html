@@ -17,7 +17,7 @@
     --button-text: #ffffff;
   }
   @media (prefers-color-scheme: dark) {
-    :root {
+    :root:not([data-theme="light"]) {
       --bg: #17181b;
       --card: #24262b;
       --text: #ececec;
@@ -28,6 +28,17 @@
       --button: #ececec;
       --button-text: #17181b;
     }
+  }
+  :root[data-theme="dark"] {
+    --bg: #17181b;
+    --card: #24262b;
+    --text: #ececec;
+    --muted: #9a9a9a;
+    --green: #3fbf73;
+    --red: #e05858;
+    --ring: #ffffff;
+    --button: #ececec;
+    --button-text: #17181b;
   }
   * { box-sizing: border-box; }
   body {
