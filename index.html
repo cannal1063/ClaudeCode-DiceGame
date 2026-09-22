@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Green Side Up</title>
+<style>
+  :root {
+    --bg: #f5f3ee;
+    --card: #ffffff;
+    --text: #1f1f1f;
+    --muted: #6f6f6f;
+    --green: #2e9e5b;
+    --red: #d64545;
+    --ring: #1f1f1f;
+    --button: #1f1f1f;
+    --button-text: #ffffff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #17181b;
+      --card: #24262b;
+      --text: #ececec;
+      --muted: #9a9a9a;
+      --green: #3fbf73;
+      --red: #e05858;
+      --ring: #ffffff;
+      --button: #ececec;
+      --button-text: #17181b;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 16px;
+    font-family: system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    display: flex;
+    justify-content: center;
+  }
+  main { width: 100%; max-width: 640px; text-align: center; }
+  h1 { margin: 8px 0 4px; }
+  .tagline { color: var(--muted); margin: 0 0 20px; font-size: 15px; }
+
+  .card {
+    background: var(--card);
+    border-radius: 14px;
+    padding: 16px;
+  }
+  .you { margin-bottom: 16px; }
+  .you h2 { margin: 0 0 4px; }
+  .count { font-size: 15px; color: var(--muted); margin-bottom: 12px; }
+  .count strong { color: var(--green); font-size: 20px; }
+
+  /* A die is drawn as its 20 faces in a 5x4 grid. */
+  .faces {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 6px;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  .face {
+    aspect-ratio: 1;
+    border-radius: 6px;
+    background: var(--red);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+    transition: background 0.3s;
+  }
+  .face.green { background: var(--green); }
+  .face.landed { outline: 4px solid var(--ring); outline-offset: 2px; }
+  .face.new { animation: pop 0.5s; }
+  @keyframes pop {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.3); }
+    100% { transform: scale(1); }
+  }
+
+  .result { min-height: 1.6em; font-size: 20px; font-weight: 700; margin: 16px 0 4px; }
+  .result.green { color: var(--green); }
+  .result.red { color: var(--red); }
+  .quote { min-height: 1.4em; color: var(--muted); font-style: italic; margin-bottom: 12px; }
+
+  .empire { font-size: 24px; line-height: 1.4; min-height: 1.4em; word-break: break-all; }
+  .empire-label { color: var(--muted); font-size: 13px; margin-top: 4px; }
+
+  .buttons { display: flex; gap: 12px; justify-content: center; margin: 16px 0; flex-wrap: wrap; }
+  button {
+    font-size: 18px;
+    padding: 12px 28px;
+    border: none;
+    border-radius: 8px;
+    background: var(--button);
+    color: var(--button-text);
+    cursor: pointer;
+  }
+  button.quit { background: transparent; color: var(--muted); border: 1px solid var(--muted); }
+  button:disabled { opacity: 0.4; cursor: not-allowed; }
+
+  .others-title { color: var(--muted); font-size: 14px; margin: 24px 0 8px; }
+  .others { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+  .others .card { padding: 10px; }
+  .others h3 { margin: 0 0 4px; font-size: 14px; }
+  .others .count { font-size: 12px; margin-bottom: 8px; }
+  .others .count strong { font-size: 14px; }
+  .others .faces { gap: 3px; }
+  .others .face { font-size: 0; border-radius: 3px; }
+  .others .face.landed { outline-width: 2px; outline-offset: 1px; }
+
+  .quit-screen { display: none; }
+  .quit-screen.show { display: block; }
+  .quit-screen p { font-size: 18px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Green Side Up</h1>
+  <p class="tagline">A 20-sided die. One side is green. Every green roll turns one more side green.<br>Red costs you nothing but the will to roll again.</p>
+
+  <section id="game">
+    <div class="card you">
+      <h2>Your venture</h2>
+      <div class="count"><strong id="youGreen">1</strong> / 20 sides green · <span id="youOdds">5%</span> odds · <span id="rolls">0</span> rolls</div>
+      <div class="faces" id="youFaces"></div>
+      <div class="result" id="result"></div>
+      <div class="quote" id="quote">Roll the die.</div>
+      <div class="empire" id="empire"></div>
+      <div class="empire-label">Your empire</div>
+    </div>
+
+    <div class="buttons">
+      <button id="roll">Roll</button>
+      <button id="quit" class="quit">Quit</button>
+    </div>
+
+    <div class="others-title">Other players. Comparison is the enemy.</div>
+    <div class="others" id="others"></div>
+  </section>
+
+  <section class="quit-screen card" id="quitScreen">
+    <h2>You quit.</h2>
+    <p id="quitSummary"></p>
+    <p class="quote">The die never stopped working. You stopped rolling.</p>
+    <div class="buttons"><button id="restart">Start again</button></div>
+  </section>
+</main>
+
+<script>
+  const SIDES = 20;
+  const EMPIRE_ICONS = ['⛺', '🏠', '🏪', '🏢', '🏭', '🏙️'];
+  const RED_QUOTES = [
+    'Red. Roll again.',
+    'Failure is data, not a verdict.',
+    'Nothing lost. Keep going.',
+    'The odds only improve if you keep rolling.',
+    'Their die is not your die.',
+    'Every empire was built through red rolls.',
+    'Discouragement is the only way to lose.',
+  ];
+  const GREEN_QUOTES = [
+    'The empire grows.',
+    'One more side in your favor.',
+    'Momentum compounds.',
+    'Your odds just got better.',
+  ];
+
+  const $ = (id) => document.getElementById(id);
+  const pick = (list) => list[Math.floor(Math.random() * list.length)];
+
+  let you, others, rolls;
+
+  function newDie(name) {
+    return { name, green: 1, landed: null, justAdded: null };
+  }
+
+  // Roll one die. Faces 0..green-1 are green; landing on one turns the next red face green.
+  function rollDie(die) {
+    const face = Math.floor(Math.random() * SIDES);
+    const hitGreen = face < die.green;
+    die.landed = face;
+    die.justAdded = null;
+    if (hitGreen && die.green < SIDES) {
+      die.justAdded = die.green;
+      die.green++;
+    }
+    return hitGreen;
+  }
+
+  function renderFaces(el, die, numbered) {
+    el.innerHTML = '';
+    for (let i = 0; i < SIDES; i++) {
+      const face = document.createElement('div');
+      face.className = 'face';
+      if (i < die.green) face.classList.add('green');
+      if (i === die.landed) face.classList.add('landed');
+      if (i === die.justAdded) face.classList.add('new');
+      if (numbered) face.textContent = i + 1;
+      el.appendChild(face);
+    }
+  }
+
+  function renderEmpire() {
+    // One building per green side; buildings upgrade as the empire grows.
+    const tier = Math.min(EMPIRE_ICONS.length - 1, Math.floor((you.green - 1) / 4));
+    $('empire').textContent = EMPIRE_ICONS[tier].repeat(you.green);
+  }
+
+  function render() {
+    $('youGreen').textContent = you.green;
+    $('youOdds').textContent = Math.round((you.green / SIDES) * 100) + '%';
+    $('rolls').textContent = rolls;
+    renderFaces($('youFaces'), you, true);
+    renderEmpire();
+
+    const othersEl = $('others');
+    othersEl.innerHTML = '';
+    for (const die of others) {
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML =
+        '<h3>' + die.name + '</h3>' +
+        '<div class="count"><strong>' + die.green + '</strong> / 20 green</div>';
+      const faces = document.createElement('div');
+      faces.className = 'faces';
+      renderFaces(faces, die, false);
+      card.appendChild(faces);
+      othersEl.appendChild(card);
+    }
+  }
+
+  function roll() {
+    rolls++;
+    const hitGreen = rollDie(you);
+    others.forEach(rollDie);
+
+    const result = $('result');
+    if (you.green === SIDES && hitGreen && you.justAdded === null) {
+      result.textContent = 'All 20 sides green.';
+      result.className = 'result green';
+      $('quote').textContent = 'The empire is complete. It was built one roll at a time.';
+    } else if (hitGreen) {
+      result.textContent = 'Green! +1 green side';
+      result.className = 'result green';
+      $('quote').textContent = you.green === SIDES
+        ? 'The empire is complete. It was built one roll at a time.'
+        : pick(GREEN_QUOTES);
+    } else {
+      result.textContent = 'Red.';
+      result.className = 'result red';
+      $('quote').textContent = pick(RED_QUOTES);
+    }
+    render();
+  }
+
+  function quit() {
+    $('quitSummary').textContent =
+      'You rolled ' + rolls + ' time' + (rolls === 1 ? '' : 's') +
+      ' and finished with ' + you.green + ' of 20 sides green.';
+    $('game').style.display = 'none';
+    $('quitScreen').classList.add('show');
+  }
+
+  function newGame() {
+    you = newDie('You');
+    others = [newDie('Player 2'), newDie('Player 3'), newDie('Player 4')];
+    rolls = 0;
+    $('result').textContent = '';
+    $('quote').textContent = 'Roll the die.';
+    $('game').style.display = '';
+    $('quitScreen').classList.remove('show');
+    render();
+  }
+
+  $('roll').addEventListener('click', roll);
+  $('quit').addEventListener('click', quit);
+  $('restart').addEventListener('click', newGame);
+
+  newGame();
+</script>
+</body>
+</html>
