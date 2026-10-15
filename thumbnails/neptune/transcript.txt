@@ -1,0 +1,1972 @@
+00:00:00:00 - 00:00:04:03
+Unknown
+If I told you about a company that did $160 million in revenue last year
+
+00:00:04:03 - 00:00:07:21
+Unknown
+at a 60% EBITDA margin and did this for four years in a row.
+
+00:00:07:21 - 00:00:11:17
+Unknown
+That's listed on the New York Stock Exchange with a market cap of $4 billion,
+
+00:00:11:17 - 00:00:16:09
+Unknown
+that was founded ten years ago and did all of this was just 62 employees.
+
+00:00:16:09 - 00:00:23:14
+Unknown
+What do you think this company would do? Maybe a software product, maybe some new AI product. Maybe just having royalties on some field.
+
+00:00:23:14 - 00:00:30:18
+Unknown
+However, you would be wrong. It's flood insurance, which I'm sure sounds crazy for us, but I can promise you that by the end of this video, you're going to understand why.
+
+00:00:30:18 - 00:00:34:19
+Unknown
+In fact, you might actually want to start your own insurance company after watching this video.
+
+00:00:34:19 - 00:00:41:01
+Unknown
+And here's the best part of it all. This insurance company never had to pay out a single claim from its balance sheet.
+
+00:00:41:01 - 00:00:46:24
+Unknown
+And even better, its number one competitor is the United States government. I mean, what a dream that is.
+
+00:00:46:24 - 00:00:50:13
+Unknown
+So the business that I'm talking about today is called Neptune Flood Insurance.
+
+00:00:50:13 - 00:00:58:20
+Unknown
+And I'm going to be honest with you, when I first found out about this company a few weeks ago, I could not even believe the numbers. So in this video, I'm going to break down the entire story of this business.
+
+00:00:58:20 - 00:01:01:22
+Unknown
+Why floods broke the insurance industry a hundred years ago,
+
+00:01:01:22 - 00:01:05:21
+Unknown
+how the government ended up being the only one selling flood insurance.
+
+00:01:05:21 - 00:01:09:08
+Unknown
+What changed in the law that led a private company back into the industry?
+
+00:01:09:08 - 00:01:13:08
+Unknown
+Who the founders of this business were? Who the CEO of the business is,
+
+00:01:13:08 - 00:01:15:09
+Unknown
+how the product actually works.
+
+00:01:15:09 - 00:01:18:05
+Unknown
+And then my favorite part, the uni economics of this business
+
+00:01:18:05 - 00:01:23:25
+Unknown
+have the money flows and how 62 people can manage a $4 billion enterprise.
+
+00:01:23:25 - 00:01:34:08
+Unknown
+And most importantly, at the end of this video, I'm going to break down all of the mechanisms and the principles that Neptune Flood Insurance employs in this business so that you can go ahead and implement it in your business or your future business.
+
+00:01:34:08 - 00:01:43:11
+Unknown
+Who am I and why am I making this video? Well, I'm obsessed with learning about great companies, and I'm making this video so that I can learn for myself. But also I can also share my learnings with other people.
+
+00:01:43:11 - 00:01:46:26
+Unknown
+But more specifically, how I found Neptune was actually quite a funny story.
+
+00:01:46:26 - 00:02:02:05
+Unknown
+So a few weeks ago, I was actually an event and I had the opportunity to speak with the financier, and I asked him, what is the most interesting business, the one with the best margins, the best operations that you have personally seen? And he told me about Neptune Flood Insurance, and I never heard about it before.
+
+00:02:02:05 - 00:02:10:11
+Unknown
+So that evening I went home and I looked it up. And since then, for the past few weeks, I've been deeply studying this business, and every single day I am more and more fascinated.
+
+00:02:10:11 - 00:02:19:08
+Unknown
+Now, a quick disclaimer before we dive in. I'm not a financial advisor. This is not investment advice, and I may or may not hold a position in any of the companies that are discussed today.
+
+00:02:19:08 - 00:02:27:27
+Unknown
+All right, so starting with insurance, most people understand the basic principle of insurance. You get a car, you get insurance. If you crush the car, you get paid. Pretty simple.
+
+00:02:27:27 - 00:02:34:12
+Unknown
+But I want to go one layer beneath that because this is where flood insurance is actually a little bit different than pretty much every other insurance product.
+
+00:02:34:12 - 00:02:37:21
+Unknown
+So insurance is essentially a pooling machine.
+
+00:02:37:21 - 00:02:45:00
+Unknown
+a group of people put money into a pool. And every single year a handful of them have something bad happen and then the pool pays out to them.
+
+00:02:45:00 - 00:02:54:09
+Unknown
+Now this only works because the bad things that happen to them are independent of each other. So, for example, if I crash my car, that doesn't increase the odds of you crashing your car
+
+00:02:54:09 - 00:02:55:09
+Unknown
+or in pet insurance.
+
+00:02:55:09 - 00:03:00:07
+Unknown
+If my dog gets sick, that doesn't necessarily mean that your dog is more likely to get sick in most cases.
+
+00:03:00:07 - 00:03:07:09
+Unknown
+Now, flood insurance is the complete opposite. A hurricane can come through Tampa Bay and you have 50,000 homes that have been flooded overnight.
+
+00:03:07:09 - 00:03:16:21
+Unknown
+So in flood insurance you could be collecting premiums for years and nobody will file a claim until one night a storm hits and half of your customers want to get a claim.
+
+00:03:16:21 - 00:03:21:05
+Unknown
+And oftentimes the pool basically is destroyed and it turns into bankruptcy.
+
+00:03:21:05 - 00:03:23:15
+Unknown
+And then there's a second problem on top of that.
+
+00:03:23:15 - 00:03:27:01
+Unknown
+Think about who's actually going to be buying flood insurance when it's optional.
+
+00:03:27:01 - 00:03:29:14
+Unknown
+The people who know that they're going to flood.
+
+00:03:29:14 - 00:03:32:22
+Unknown
+The guy who has the house on the hill is not going to be buying flood insurance.
+
+00:03:32:22 - 00:03:36:24
+Unknown
+So you end up with a pool of people that you do not want to be insuring.
+
+00:03:36:24 - 00:03:41:13
+Unknown
+So here's the history. Private flood insurance. United States started around 1895.
+
+00:03:41:13 - 00:03:43:12
+Unknown
+And it worked okay for a few decades.
+
+00:03:43:12 - 00:03:47:07
+Unknown
+Then in 1927, the great Mississippi River flood happened.
+
+00:03:47:07 - 00:03:52:07
+Unknown
+And the damage was so bad that essentially every single private insurer left the industry.
+
+00:03:52:07 - 00:03:57:28
+Unknown
+And nobody came back. So for the decades to follow, there was pretty much no one to cover flood insurance.
+
+00:03:57:28 - 00:04:03:13
+Unknown
+So in 1960, the government stepped in. When Congress passed the National Flood Insurance Act,
+
+00:04:03:13 - 00:04:06:26
+Unknown
+which created the Nfip, the National Flood Insurance Program.
+
+00:04:06:26 - 00:04:10:10
+Unknown
+now with this essentially was was government backed flood insurance.
+
+00:04:10:10 - 00:04:19:03
+Unknown
+And then in 1973, they actually made it mandatory for every single person who had a government backed mortgage to purchase flood insurance if they were in a flood zone.
+
+00:04:19:03 - 00:04:24:03
+Unknown
+then in 1983 this is the important part. They launched the Write Your Own program or YWCA.
+
+00:04:24:03 - 00:04:39:13
+Unknown
+So now, private insurance companies such as Allstate could sell an IP policy under their name. They would handle the customer relationship. They'd handle the paperwork. They'd get a commission for selling it. But at the end of the day, the Nfip would still back that policy and pay out all of the claims.
+
+00:04:39:13 - 00:04:42:28
+Unknown
+So the government still had 100% of the risk if the House flooded.
+
+00:04:42:28 - 00:04:49:12
+Unknown
+So let me show you how the money moves under the YWCA. And this will become really important later in the video when we look at how the money flows through Neptune.
+
+00:04:49:12 - 00:04:56:19
+Unknown
+so for every $100 of insurance premium, roughly $30 or 30% will go to the YWCA carrier.
+
+00:04:56:19 - 00:05:09:15
+Unknown
+And inside of that $30, about $15 or 15% will go to the insurance agent that sold it. And then the remaining $70 would go to the government fund that is then used to pay out insurance claims.
+
+00:05:09:15 - 00:05:14:28
+Unknown
+Now, here's the worst part. The United States government subsidized the prices of these flood insurance policies,
+
+00:05:14:28 - 00:05:19:27
+Unknown
+So homes and flood zones were paying roughly 40 to 45% of the full risk cost.
+
+00:05:19:27 - 00:05:24:15
+Unknown
+And what happens when you make flood insurance cheap? People are going to keep building in flood zones.
+
+00:05:24:15 - 00:05:26:29
+Unknown
+So you have a program that's underpriced by design,
+
+00:05:26:29 - 00:05:29:25
+Unknown
+concentrated on the worst risks in the country
+
+00:05:29:25 - 00:05:34:02
+Unknown
+with no reserves, and whose prices are set by Congress rather than concrete math.
+
+00:05:34:02 - 00:05:35:21
+Unknown
+What possibly could go wrong?
+
+00:05:35:21 - 00:05:44:08
+Unknown
+So Hurricane Katrina hits the United States in 2005. And the IP has to borrow money from the United States Treasury because they run out of capital in their own funds.
+
+00:05:44:08 - 00:05:51:19
+Unknown
+And then in October of 2017, the United States Congress just cancels $16 billion of Nfip debt.
+
+00:05:51:19 - 00:06:04:14
+Unknown
+that is the equivalent of me being a business owner, having a $16 billion loan from a bank, and all of a sudden, because I can't pay it back, the bank just forgives me and nothing ever happens. I mean, that's pretty much the dream for any business owner.
+
+00:06:04:14 - 00:06:10:19
+Unknown
+And then in February of 2025, the Nfip borrows $2 billion for Hurricane Helene and Hurricane Milton.
+
+00:06:10:19 - 00:06:19:22
+Unknown
+Today, the Nfip owes the Treasury $22.5 billion. And they pay every single day, 1.7 to $2 million in interest expenses.
+
+00:06:19:22 - 00:06:31:05
+Unknown
+And all of this data is public, which is pretty wild. This is every single nfip claim I pulled up here going back for decades, and you can actually get this data set for free on the website. You can just download it as a CSV file.
+
+00:06:31:05 - 00:06:38:09
+Unknown
+Also, Nfip coverage is capped at $250,000. The price cap that was set in 1994.
+
+00:06:38:09 - 00:06:48:09
+Unknown
+Let's be honest, a lot of homes that are in flood zones are on the water in prime real estate, and since then, they've appreciated a lot to the point where you probably can't find a single waterfront home today.
+
+00:06:48:09 - 00:06:50:10
+Unknown
+For $250,000.
+
+00:06:50:10 - 00:07:00:29
+Unknown
+And after all of this, only about 4% of American homeowners carry flood insurance. When this is an issue that costs the country 180 to $500 billion per year.
+
+00:07:00:29 - 00:07:04:09
+Unknown
+Now, I want to be fair for a second, because it's very easy to hate on the IP.
+
+00:07:04:09 - 00:07:06:29
+Unknown
+but at the end of the day, they insured what nobody else would.
+
+00:07:06:29 - 00:07:09:27
+Unknown
+And it protected millions of families through catastrophes.
+
+00:07:09:27 - 00:07:14:19
+Unknown
+And I can personally say it myself, because I've gone through many hurricanes, sought my life as a Floridian,
+
+00:07:14:19 - 00:07:21:11
+Unknown
+But let's be honest, most government systems today are broken, and they can remain that way for decades without any change are actually happening.
+
+00:07:21:11 - 00:07:24:00
+Unknown
+So the real question is what actually changed.
+
+00:07:24:00 - 00:07:25:18
+Unknown
+So two things actually changed.
+
+00:07:25:18 - 00:07:30:18
+Unknown
+the first thing is data. For hundreds of years nobody could price an individual home.
+
+00:07:30:18 - 00:07:32:10
+Unknown
+And now with data you can.
+
+00:07:32:10 - 00:07:40:13
+Unknown
+Planes now fly over the United States with leader. And you can actually measure the elevation of individual homes up to pretty much inches.
+
+00:07:40:13 - 00:07:45:02
+Unknown
+Today we have satellite building footprints for pretty much every single structure within America.
+
+00:07:45:02 - 00:07:47:06
+Unknown
+And we also have catastrophe models.
+
+00:07:47:06 - 00:07:55:22
+Unknown
+Here I have one company pulled up called Cat risk, which a ton of government agencies use a lot of insurance agencies use. I wouldn't be surprised if Neptune use them as well.
+
+00:07:55:22 - 00:08:01:24
+Unknown
+And using these models, you can simulate thousands of years of storms onto just a ten meter grid.
+
+00:08:01:24 - 00:08:10:05
+Unknown
+So for the first time in history, you can price an insurance policy based on the aspects of an individual house rather than the larger zip code of the area.
+
+00:08:10:05 - 00:08:19:13
+Unknown
+So essentially now if you can tell that your house is 18in higher than your neighbors, well, now your flood insurance policy might be $400 when your neighbors is $4,000.
+
+00:08:19:13 - 00:08:22:02
+Unknown
+Now, the second most important component here is the law.
+
+00:08:22:02 - 00:08:25:27
+Unknown
+So in 2012, Congress passed the Bigot Waters Act.
+
+00:08:25:27 - 00:08:27:18
+Unknown
+And this act does two things.
+
+00:08:27:18 - 00:08:39:04
+Unknown
+First, it tells banking regulators to accept private flood insurance on home loans because before this act, you were actually obligated to only purchase nfip or government backed flood insurance.
+
+00:08:39:04 - 00:08:48:25
+Unknown
+And two, it tells FEMA to actually start phasing out the subsidies that it was putting on these nfip policies, which basically gave it artificially low prices.
+
+00:08:48:25 - 00:08:57:19
+Unknown
+All right. So we have these two scenarios. We have the data, and we also have new laws which allow for private flood insurance to reenter the industry and have an opportunity to compete.
+
+00:08:57:19 - 00:09:03:14
+Unknown
+So that was the door that was opening. And now we're going to take a look at the company that seized the opportunity and walk through that door.
+
+00:09:03:14 - 00:09:05:07
+Unknown
+So Neptune Flood Insurance.
+
+00:09:05:07 - 00:09:08:05
+Unknown
+First of all, this is not a traditional Silicon Valley story.
+
+00:09:08:05 - 00:09:10:27
+Unknown
+Nobody dropped out of Stanford for this startup.
+
+00:09:10:27 - 00:09:18:28
+Unknown
+In fact, this is a very traditional grounds up bootstrapped business, and that's what makes it so exciting because of seeing how successful it is today.
+
+00:09:18:28 - 00:09:21:26
+Unknown
+So it starts in 2016, in Saint Petersburg, Florida.
+
+00:09:21:26 - 00:09:27:18
+Unknown
+So it starts in 2016, in Saint Petersburg, Florida, with two executives at an insurance company called Bankers Insurance.
+
+00:09:27:18 - 00:09:30:24
+Unknown
+Now, these executives were Jim Albert and Bill Martin.
+
+00:09:30:24 - 00:09:40:22
+Unknown
+And bankers, for reference, was already a write your own insurance carrier that basically wrote insurance privately for the larger Nfip government flood insurance program.
+
+00:09:40:22 - 00:09:43:26
+Unknown
+They basically utilized the write your own program that we just talked about.
+
+00:09:43:26 - 00:09:49:06
+Unknown
+So these guys were already running a book of nfip policies, and they were deeply in the industry.
+
+00:09:49:06 - 00:09:58:10
+Unknown
+And they see the tides are turning. So in 2016 they decided to start Neptune Flood Insurance. And in 2017, they write their first private insurance policy.
+
+00:09:58:10 - 00:10:01:26
+Unknown
+And then they hit the wall that every insurance startup basically hits.
+
+00:10:01:26 - 00:10:04:01
+Unknown
+It's the classic chicken and the egg problem.
+
+00:10:04:01 - 00:10:09:27
+Unknown
+Insurance agents won't be selling your product unless if there's a real a rated insurance carrier backing it.
+
+00:10:09:27 - 00:10:15:07
+Unknown
+But a real insurance company that needs to back you won't actually do that unless you have the track record behind you,
+
+00:10:15:07 - 00:10:19:08
+Unknown
+and you can't get a track record without selling policies, so you're pretty much stuck.
+
+00:10:19:08 - 00:10:24:21
+Unknown
+Now, the way they get unstuck is in 2017, they sign with Lloyd's of London as a cover holder.
+
+00:10:24:21 - 00:10:29:21
+Unknown
+So this was great news for the business. And by 2018 they had about 50 policies written.
+
+00:10:29:21 - 00:10:32:12
+Unknown
+So they were able to prove the product on a small scale.
+
+00:10:32:12 - 00:10:35:02
+Unknown
+They had the insight. They had the systems in place.
+
+00:10:35:02 - 00:10:36:29
+Unknown
+They had the stamp from Lloyd's.
+
+00:10:36:29 - 00:10:43:09
+Unknown
+But what they did not have was the capital or the operator needed to take this to a national organization.
+
+00:10:43:09 - 00:10:50:04
+Unknown
+So in early 2018, Bill Martin picks up the phone and calls up one of his friends from Saint Petersburg, Trevor Burgess.
+
+00:10:50:04 - 00:10:54:00
+Unknown
+And at this point, Trevor is 44 years old and he's practically retired.
+
+00:10:54:00 - 00:10:59:17
+Unknown
+So let me tell you how he got to retire at age 44, because this will then set the stage to what he builds at Neptune.
+
+00:10:59:17 - 00:11:13:24
+Unknown
+So for some background, Trevor worked in the Capital Markets division in Morgan Stanley from 1998 to 2008, which is basically the division that takes companies public. So he had a lot of insight about what made some of the greatest companies tick and how they can utilize capital markets.
+
+00:11:13:24 - 00:11:21:07
+Unknown
+Then in 2009, the entire banking system basically blew up, and Trevor decided to buy a small bank in Florida.
+
+00:11:21:07 - 00:11:31:04
+Unknown
+And over the following years, he built this bank to $1.7 billion in assets. They grew to 31 branches, and in 2014, he takes it public on the New York Stock Exchange.
+
+00:11:31:06 - 00:11:36:10
+Unknown
+And then in 2016, he sells the business to Bank of Ozarks for $402 million.
+
+00:11:36:10 - 00:11:40:24
+Unknown
+So if you bought the IPO, you would have made 47% in under two years.
+
+00:11:40:24 - 00:11:44:24
+Unknown
+So notice the pattern here because it's the same one he's about to implement at Neptune.
+
+00:11:44:24 - 00:11:49:02
+Unknown
+Take control of a small company grow it and then take it public.
+
+00:11:49:02 - 00:11:59:07
+Unknown
+So Bill picks up the phone. He calls with Trevor for a bit. He tells him about the idea, and he tells him that what they need is an entrepreneur and experienced operator and a little bit of capital to get things moving.
+
+00:11:59:07 - 00:12:04:08
+Unknown
+So Trevor goes, he hears about this, he reads about the industry, and he decides that he wants to go in.
+
+00:12:04:08 - 00:12:08:12
+Unknown
+So he puts in around $2 million in the business. And they use this to hire engineers.
+
+00:12:08:12 - 00:12:13:01
+Unknown
+And then Trevor will then go on to become CEO of the business in December of 2019.
+
+00:12:13:01 - 00:12:18:11
+Unknown
+Now for a little bit of context, the first profitable month in Neptune's history was in May of 2019,
+
+00:12:18:11 - 00:12:23:02
+Unknown
+and they had about $17 million of premium enforce by the end of 2019,
+
+00:12:23:02 - 00:12:25:04
+Unknown
+and then month by month, brick by brick.
+
+00:12:25:06 - 00:12:28:25
+Unknown
+They built into what it is today, which is a $4 billion public company.
+
+00:12:28:25 - 00:12:34:14
+Unknown
+Now, here's the thing I want to plant here, and we're going to come back to this a little bit deeper in the capital markets chapter of this video.
+
+00:12:34:14 - 00:12:37:29
+Unknown
+Trevor was not an insurance guy. He was a capital markets guy.
+
+00:12:37:29 - 00:12:42:10
+Unknown
+He spent a decade taking companies public, and then he took his own company public.
+
+00:12:42:10 - 00:12:54:03
+Unknown
+So is this combination of having a great idea and pairing it with an understanding of capital markets and operations that allows you to take a small, local startup company into a national enterprise?
+
+00:12:54:03 - 00:12:56:04
+Unknown
+So now we're going to take a look at the actual product.
+
+00:12:56:04 - 00:13:00:12
+Unknown
+And the point I want to drive home here is that it's not really that complicated from the outside.
+
+00:13:00:12 - 00:13:08:04
+Unknown
+And I don't mean that to disrespect the engineers in any matter. In fact, I'm sure the back end is pretty complicated. And we're going to take a look at that also later in this video.
+
+00:13:08:04 - 00:13:11:18
+Unknown
+But the customer experience is super seamless. And let me just show you.
+
+00:13:11:18 - 00:13:13:07
+Unknown
+in fact I'm going to time it.
+
+00:13:13:07 - 00:13:16:10
+Unknown
+So you go into the website, you type in your address.
+
+00:13:16:10 - 00:13:17:17
+Unknown
+You click continue,
+
+00:13:17:17 - 00:13:21:07
+Unknown
+you select what this address is. So it's a one home
+
+00:13:21:07 - 00:13:23:11
+Unknown
+you put in, what year was built.
+
+00:13:23:12 - 00:13:29:03
+Unknown
+What kind of home best describes yours, how many stories it has, what the foundation looks like,
+
+00:13:29:07 - 00:13:31:11
+Unknown
+what type of construction the building is.
+
+00:13:31:15 - 00:13:33:13
+Unknown
+And then some history about the building.
+
+00:13:33:18 - 00:13:37:20
+Unknown
+Tell us about ourselves. Put in our contact information,
+
+00:13:37:25 - 00:13:39:06
+Unknown
+verify our phone number.
+
+00:13:39:11 - 00:13:51:03
+Unknown
+Now here we see you know we can customize the coverages. So whether it's the deductible, whether we want them to also cover if we're out of our home, if they're going to cover the hotel costs. And then after you select that you have your quote.
+
+00:13:51:08 - 00:13:56:18
+Unknown
+Now, on the contrary, if you do this with the nfip, there's usually going to be a questionnaire with over 50 questions.
+
+00:13:56:20 - 00:14:00:01
+Unknown
+And a lot of cases you need to actually get an elevation certificate.
+
+00:14:00:04 - 00:14:03:28
+Unknown
+Which means you're paying a surveyor a few hundred dollars to actually come survey your house.
+
+00:14:04:03 - 00:14:11:29
+Unknown
+And then there's a 30 day waiting period before the policy even takes effect. And after all of that, you really only get $250,000 of coverage.
+
+00:14:12:01 - 00:14:21:03
+Unknown
+So at Neptune, it's really just a couple of questions. It takes really under 2 to 3 minutes. There's no surveyor. The policy is effective in about ten days,
+
+00:14:21:03 - 00:14:24:05
+Unknown
+and the coverage goes up to several millions of dollars.
+
+00:14:24:10 - 00:14:27:15
+Unknown
+So think about what just happened on the back end. Within those two minutes,
+
+00:14:27:21 - 00:14:31:09
+Unknown
+The engine pulled probably something like 50 data points on this one house.
+
+00:14:31:13 - 00:14:33:17
+Unknown
+it decided whether it wanted to cover the risk,
+
+00:14:33:19 - 00:14:40:11
+Unknown
+and then it routed this risk to roughly 50 insurance and reinsurance companies on the back end that are willing to take the risk.
+
+00:14:40:16 - 00:14:43:05
+Unknown
+All of this without a single human being touching it.
+
+00:14:43:07 - 00:14:47:12
+Unknown
+So it's pretty fascinating. We're actually going to look at the back end of how this works in a few minutes.
+
+00:14:47:15 - 00:14:52:25
+Unknown
+But first, let's talk about what got me interested in this business in the first place, which is how this business makes money.
+
+00:14:52:25 - 00:14:56:20
+Unknown
+So Neptune is an MGA, which stands for a managing general agent.
+
+00:14:56:20 - 00:15:05:04
+Unknown
+And this is the simplest way I found to explain it an MGA. Does an insurance companies work without being an insurance company?
+
+00:15:05:04 - 00:15:21:29
+Unknown
+Neptune decides which houses to cover what to charge. It sells the policy, it services the customer and it keeps a commission on every single sale. But the actual promise, the actual money that's paid out when the house floods, that sits with someone else, a carrier on the back end.
+
+00:15:22:01 - 00:15:26:24
+Unknown
+So when the house floods, no money actually comes out of Neptune's balance sheet.
+
+00:15:26:27 - 00:15:32:26
+Unknown
+Now the obvious question. So when you do this industry would ask is, well, why wouldn't the insurance companies just do this part themselves?
+
+00:15:32:28 - 00:15:35:04
+Unknown
+Why would they pay a commission to Neptune?
+
+00:15:35:07 - 00:15:38:23
+Unknown
+In the answer to that is that holding money is not really the hard part.
+
+00:15:38:25 - 00:15:40:26
+Unknown
+Anyone with capital can hold the money.
+
+00:15:41:01 - 00:15:45:22
+Unknown
+The hard part is knowing which homes to say yes and no to and what to price them at.
+
+00:15:45:22 - 00:15:51:05
+Unknown
+And that's exactly what Neptune is best at. And that is the value within the value chain that they're rewarded for.
+
+00:15:51:07 - 00:15:54:07
+Unknown
+Now to really see it, let me draw it. The whole flood insurance chain.
+
+00:15:54:12 - 00:16:01:15
+Unknown
+Now the first link is the homeowner. And they're usually buying flood insurance because a they don't want to lose their house or B because their mortgage requires it or both.
+
+00:16:01:17 - 00:16:11:28
+Unknown
+Now the second link is the insurance agent. And for a long time, the only flood insurance product the insurance agents could sell were government backed flood insurance product. But now they have Neptune, which they can sell.
+
+00:16:12:03 - 00:16:15:12
+Unknown
+The third link in the chain is Neptune, the MGA.
+
+00:16:15:14 - 00:16:20:15
+Unknown
+They decide yes or no. They set the price and they keep a commission on all policies.
+
+00:16:20:17 - 00:16:23:07
+Unknown
+Now the fourth link is the issuing carrier.
+
+00:16:23:07 - 00:16:31:24
+Unknown
+Now this is the A rated insurance company whose name is on the policy. And their checkbook is the one that's opening when a claim needs to be paid.
+
+00:16:31:26 - 00:16:39:08
+Unknown
+And Neptune rents that license from them for a small percentage of the premium. Oftentimes these guys are called the fronting carriers.
+
+00:16:39:13 - 00:16:44:16
+Unknown
+And then the fifth link are the reinsurers basically insurance for insurance companies
+
+00:16:44:19 - 00:16:51:00
+Unknown
+because the carrier doesn't just want to be holding flood insurance risk, they want to diversify their risk across different pools.
+
+00:16:51:01 - 00:16:54:04
+Unknown
+companies like Munich Re, Swiss Re, companies in Bermuda.
+
+00:16:54:09 - 00:17:06:00
+Unknown
+Essentially what they do is they take a slice of Florida flood. They take a slice of Japanese earthquake. They take a slice of German hailstorm, and they spread it all out equally, so that no single disaster will sink them.
+
+00:17:06:05 - 00:17:11:02
+Unknown
+and then the last link in the chain, which happens when even reinsurers flinch at the risks.
+
+00:17:11:07 - 00:17:18:15
+Unknown
+This is when it touches the capital markets. And these are called catastrophe bonds. And this is actually I learned about this only through researching for this video.
+
+00:17:18:17 - 00:17:34:26
+Unknown
+And this is essentially where pension funds will invest money into a bond that pays them a premium. And that premium gets paid out every single year. But in the event that a catastrophe happens and they need that principal, the insurance company can then take that principal from the pension fund
+
+00:17:34:26 - 00:17:39:26
+Unknown
+so it flows all the way from the homeowner, all the way to a pensioner and a pension fund.
+
+00:17:39:26 - 00:17:41:25
+Unknown
+Who is buying those catastrophe bonds.
+
+00:17:41:26 - 00:17:46:09
+Unknown
+So now let's look at the economics. And the best way to do this is to follow an individual policy.
+
+00:17:46:14 - 00:17:51:24
+Unknown
+So let's say a homeowner in Tampa pays $2,000 a year for flood insurance with Neptune.
+
+00:17:51:29 - 00:17:57:27
+Unknown
+So the first slice that comes off the top is the agent that sold it. Usually this commission is anywhere.
+
+00:17:57:27 - 00:18:07:02
+Unknown
+So the first slice that comes off of the top is the agent who sold it. And this is usually 15 to 13% commission. So let's call this around $280 here.
+
+00:18:07:02 - 00:18:11:22
+Unknown
+Now I just want to note the agent commissions are the single largest expense that Neptune has
+
+00:18:11:24 - 00:18:14:26
+Unknown
+Now, the next slice of that $2,000 is Neptune's.
+
+00:18:15:01 - 00:18:19:10
+Unknown
+On average, Neptune keeps about a third of the premium that it writes.
+
+00:18:19:15 - 00:18:24:10
+Unknown
+So on a $2,000 flood insurance policy, that's roughly $660.
+
+00:18:24:10 - 00:18:27:29
+Unknown
+And then on top of that, there's a small policy fee that Neptune also takes,
+
+00:18:28:04 - 00:18:34:14
+Unknown
+then a small slice, let's call it 100 to $140, goes to the issuing carrier for renting out its license to Neptune.
+
+00:18:34:17 - 00:18:40:00
+Unknown
+And then everything left. Call it $902,000. Is the actual money left to pay out the claims?
+
+00:18:40:05 - 00:18:42:16
+Unknown
+This money goes to carriers and reinsurers.
+
+00:18:42:20 - 00:18:49:19
+Unknown
+So here's the thing to notice of the $2,000 Neptune keeps $660 without holding any of the risk.
+
+00:18:49:23 - 00:18:57:18
+Unknown
+If the house doesn't flood, Neptune keeps the $660. If the house floods, Neptune also keeps the $660.
+
+00:18:57:23 - 00:19:12:27
+Unknown
+So now let's scale that up. This is Neptune's income statement for 2025. Revenue is about $160 million. And now look at the expenses. The agent's commission is $49 million in costs. That's the biggest expense line.
+
+00:19:12:29 - 00:19:19:14
+Unknown
+And the best part about this cost is that it's a variable cost. It only gets paid when a policy gets sold.
+
+00:19:19:17 - 00:19:28:00
+Unknown
+And then there's a key line that isn't here. And that's for a reason. It's the line of paying out the claims, which as I explained, because they're an MGA, they pay out none of the claims.
+
+00:19:28:02 - 00:19:38:11
+Unknown
+And at the bottom of that, they have about $95 million in adjusted EBITDA, which is around 59%, and net income of around $37.4 million.
+
+00:19:38:15 - 00:19:41:11
+Unknown
+Those are numbers that many software companies would probably kill for.
+
+00:19:41:14 - 00:19:46:09
+Unknown
+And then there's the best part of this entire equation that makes all of these earnings compound.
+
+00:19:46:12 - 00:19:51:14
+Unknown
+So about 86% of Neptune's customers renew their premium every single year.
+
+00:19:51:19 - 00:19:54:04
+Unknown
+and because premiums tend to go up a little bit.
+
+00:19:54:04 - 00:19:58:03
+Unknown
+Neptune keeps her on 93% of the premium dollars year over year.
+
+00:19:58:04 - 00:20:04:10
+Unknown
+so if Neptune sold absolutely no new insurance policies next year, most of the revenue would still show up.
+
+00:20:04:12 - 00:20:07:04
+Unknown
+The next key metric I want to cover is the loss ratio.
+
+00:20:07:07 - 00:20:11:14
+Unknown
+And this is probably the number that I would put on the wall in the office if I ran this business.
+
+00:20:11:18 - 00:20:16:14
+Unknown
+So the loss ratio is just claims paid divided by the premium collected.
+
+00:20:16:19 - 00:20:25:05
+Unknown
+And today, Neptune's lifetime loss ratio for its capacity providers is about 19.5% as of mid 2026.
+
+00:20:25:08 - 00:20:28:14
+Unknown
+For reference, the Nfip is around 86%.
+
+00:20:28:17 - 00:20:38:03
+Unknown
+When Hurricane Helene hit, Neptune's book had a loss ratio of 18% when the Nfip was somewhere between 163 and 188%.
+
+00:20:38:03 - 00:20:43:14
+Unknown
+now, of course, it's not apples to apples, because Neptune doesn't have to accept everyone while the nfip does.
+
+00:20:43:16 - 00:20:50:19
+Unknown
+But here's why it matters. The low loss ratio is the entire selling point for all of the carriers that Neptune has on the back end.
+
+00:20:50:21 - 00:20:58:10
+Unknown
+So because Neptune helps these insurance carriers on the back end make money, Neptune then gets even more coverage and this flywheel just keeps on building.
+
+00:20:58:15 - 00:21:09:19
+Unknown
+And then one more number before we move on. The revenue per employee in this business is somewhere between 2.7 and $3 million, and the EBITDA per employee is probably $1.8 million.
+
+00:21:09:21 - 00:21:14:23
+Unknown
+So these are not typical insurance numbers. These are more so, you know, top of the line software numbers.
+
+00:21:14:25 - 00:21:28:28
+Unknown
+But here's the best part of this entire business. 97% of policies that Neptune sells aren't even sold by people that work for Neptune.
+
+00:21:29:01 - 00:21:36:16
+Unknown
+So this is the part of Neptune's business model that makes it even more capital efficient. And it's much different than the last insurance company I covered, spot pet insurance.
+
+00:21:36:16 - 00:21:39:20
+Unknown
+So for reference, spot pet insurance was essentially a marketing company.
+
+00:21:39:22 - 00:21:43:21
+Unknown
+Most of the money it went to ads, whether it was meta TV ads. ET cetera.
+
+00:21:43:26 - 00:21:48:18
+Unknown
+On the other hand, Neptune's 10-K doesn't even have an advertising line in their expenses.
+
+00:21:48:23 - 00:21:52:14
+Unknown
+They just tied into their general operating expenses because it's that minute.
+
+00:21:52:14 - 00:21:58:08
+Unknown
+Instead, roughly 97% of Neptune's insurance policies are sold by independent agents.
+
+00:21:58:11 - 00:22:04:14
+Unknown
+To date, over 25,000 independent insurance agencies have bound a Neptune insurance policy.
+
+00:22:04:17 - 00:22:07:02
+Unknown
+Over 114,000 have ran a quote.
+
+00:22:07:05 - 00:22:13:06
+Unknown
+And no single agency is more than 8.5% of Neptune's book, which is great because they're diversified.
+
+00:22:13:11 - 00:22:22:15
+Unknown
+So why does this matter? Well, it's because Neptune never even had to build a sales force for their product. They just plugged into a system that already existed.
+
+00:22:22:20 - 00:22:33:20
+Unknown
+There are hundreds of thousands of licensed insurance agents in this country, and they're already sitting every single day across the table from homeowners who are buying homeowners insurance or other insurance products.
+
+00:22:33:23 - 00:22:36:07
+Unknown
+And here's the beautiful part. From a cash standpoint,
+
+00:22:36:12 - 00:22:41:17
+Unknown
+Neptune only pays the insurance agent when the policy gets paid for.
+
+00:22:41:20 - 00:22:46:04
+Unknown
+So money only leaves Neptune's pocket once the revenue shows up.
+
+00:22:46:09 - 00:22:51:22
+Unknown
+Compare that to spending $300 on ads to acquire customer, hoping they stick around for a couple of months.
+
+00:22:51:28 - 00:22:55:26
+Unknown
+And then there's one more mechanic here, which makes this even more incredible for Neptune.
+
+00:22:56:01 - 00:23:01:06
+Unknown
+Insurance agents have something called Ian exposure. It stands for errors and omissions.
+
+00:23:01:09 - 00:23:08:28
+Unknown
+And essentially what this means is that if my house floods and my insurance agent never offered me flood insurance, I can sue them.
+
+00:23:09:03 - 00:23:19:09
+Unknown
+So in order to not get sued, insurance agents will offer flood insurance to every single customer they have. And this is just to protect themselves from lawsuits. Neptune doesn't have to push this on them.
+
+00:23:19:09 - 00:23:25:16
+Unknown
+And this is just a structural aspect of the insurance industry that makes Neptune's business just so much better.
+
+00:23:25:19 - 00:23:46:05
+Unknown
+Now, comparing it from the insurance agents perspective, selling Neptune versus the Nfip product, Neptune has a slightly lower commission for insurance agents, so I believe it's one 2% lower than the Nfip. The IP is roughly 15%. I believe Neptune's around 13%, but the insurance agents will still most of the time pick Neptune because they can do the insurance quotes so much faster.
+
+00:23:46:05 - 00:23:50:08
+Unknown
+So by increasing volume, they actually get more commissions with Neptune.
+
+00:23:50:13 - 00:23:53:06
+Unknown
+Here's another great thing that Neptune does with their system.
+
+00:23:53:09 - 00:23:56:21
+Unknown
+Neptune treats distribution like the product.
+
+00:23:56:21 - 00:24:03:08
+Unknown
+So what they did was they built API integrations into insurance software tools that agents already use.
+
+00:24:03:10 - 00:24:07:13
+Unknown
+Rating tools like quote, rush, Vertu, phone, easy links.
+
+00:24:07:15 - 00:24:10:03
+Unknown
+So the agent doesn't even have to go to Neptune's website.
+
+00:24:10:08 - 00:24:20:00
+Unknown
+Neptune will automatically show up into the software tools as a possible quote for their customer, within the tools that the insurance agents already use. It's just it's incredible.
+
+00:24:20:05 - 00:24:24:16
+Unknown
+And they have all sorts of other things, such as API express links for various agencies
+
+00:24:24:18 - 00:24:29:18
+Unknown
+They run weekly webinars for insurance agents. They get involved in various insurance agent communities.
+
+00:24:29:21 - 00:24:36:10
+Unknown
+They even recently launched an AI assistant called Atlas within their portal that helps insurance agents sell their product efficiently.
+
+00:24:36:12 - 00:24:49:10
+Unknown
+And I'm going to be honest, this is why when you look at their website, it's nothing that complicated. I mean, there's websites, you know, from Silicon Valley with some of these startups that look like they're almost like the Mona Lisa, where, you know, Neptune's websites very basic.
+
+00:24:49:10 - 00:24:52:09
+Unknown
+And the truth is, it's because the website isn't their storefront.
+
+00:24:52:10 - 00:24:55:04
+Unknown
+The agents are. And that's what's so special here.
+
+00:24:55:09 - 00:24:59:29
+Unknown
+Now, I don't want to just tell you guys this. I want you to hear this from someone who's actually in the industry.
+
+00:24:59:29 - 00:25:09:04
+Unknown
+so I actually called an independent insurance agent who sells Neptune. And I asked him a few questions about the product. So I'm going to play the recording here for you. If you want, you can skip ahead.
+
+00:25:09:06 - 00:25:12:21
+Unknown
+Now, everything I've told you so far about distribution comes from Neptune.
+
+00:25:12:24 - 00:25:16:18
+Unknown
+I pulled their filings, their investor decks, and I listened to various interviews.
+
+00:25:16:22 - 00:25:19:21
+Unknown
+But I wanted to see if I could find any other data from the outside.
+
+00:25:19:28 - 00:25:35:08
+Unknown
+So what I have pulled up here is similar web, which estimates how many people visit a website every month from a panel of real browsers. And just for context, it's not perfect. Exact counts are probably plus or -20%, but the trends and usually the ratios are very reliable.
+
+00:25:35:11 - 00:25:51:06
+Unknown
+So here's Neptune flight. For about 18 months it's been flat right around 45 to 70,000 visits a month. And then from March of 2026, it breaks out 75,086, 96, 98. And then August 155,000.
+
+00:25:51:11 - 00:25:54:02
+Unknown
+That's more than double the same month a year earlier.
+
+00:25:54:02 - 00:26:00:26
+Unknown
+Now, the first thing I asked was, is this real? Or did they just start buying a bunch of ads? And this is where it actually gets quite interesting.
+
+00:26:00:26 - 00:26:12:22
+Unknown
+Paid traffic. All of it combined, whether it's Google Display Social, was around 12,000 visits a month a year ago, and it's about 12,000 a month now. It's pretty flat.
+
+00:26:12:27 - 00:26:16:26
+Unknown
+Organic search went from 10 to 16,000. You know, that's nice, but nothing crazy.
+
+00:26:17:03 - 00:26:33:20
+Unknown
+Almost all of the growth that we're seeing here, the 73,000 extra visits is what similar web is attributing as direct and direct means no refer. Somebody just typed the address in, they used a bookmark or they came through through some sort of integration that drops them into the tool.
+
+00:26:33:25 - 00:26:40:17
+Unknown
+So my thesis here is that they're having a rapid growth of agents that are using their product and selling their products, especially in the past month.
+
+00:26:40:20 - 00:26:45:29
+Unknown
+and I think I can prove the fact that this is agents by actually looking at where the traffic lands.
+
+00:26:46:04 - 00:26:50:26
+Unknown
+So we can see here that only about 45% of Neptune's visits go to the public website.
+
+00:26:51:00 - 00:26:56:24
+Unknown
+and about 37% of the traffic go to a subdomain called Poseidon dash UI,
+
+00:26:56:24 - 00:26:59:06
+Unknown
+and that's the agent platform that they call Poseidon.
+
+00:26:59:09 - 00:27:07:11
+Unknown
+And then another 9% goes to Poseidon Dash API, which is the API that browsers that are calling Neptune's Tool are using.
+
+00:27:07:13 - 00:27:19:05
+Unknown
+So overall, I have to say this is a great sign. I'm going to be honest. Like if I were on the executive team of this business, I'm not sure if similar web is 100% accurate here, but you know, seeing this massive booth in the past month, in fact, it's quite a coincidence that I'm deciding to make this video now.
+
+00:27:19:05 - 00:27:24:23
+Unknown
+But I think if they can continue this, then Neptune is going to see continued breakout growth.
+
+00:27:24:26 - 00:27:30:14
+Unknown
+And then here's a really interesting tool from somewhere where we can actually see where the traffic is coming from.
+
+00:27:30:18 - 00:27:42:28
+Unknown
+It's not coming from blogs or comparison websites. If we actually look at the names, these are often really complicated URL such as v2 dot dot dot com. That's rocket mortgages insurance arm
+
+00:27:43:03 - 00:27:47:25
+Unknown
+farmers dot dot dot com. That's farmers agent platform
+
+00:27:48:00 - 00:27:55:02
+Unknown
+usa.com app dot dot com goose head.lightning.com. That's goose head Salesforce right.
+
+00:27:55:03 - 00:28:15:18
+Unknown
+So these are all you know big insurance companies that are partners that are redirecting traffic to them. So we can see that they've mastered the art of not having to rely on paid media to acquire customers. They're plugging into these existing ecosystems and just getting traffic to their product. Because at the end of the day, like I said, their number one competitor really today is the United States government.
+
+00:28:15:21 - 00:28:29:05
+Unknown
+And I think that's one of their best advantages, because there's so much of this underpriced real estate that they're able to just inject themselves into. And rightfully so. I mean, as we saw, they have a really great, you know, written loss ratio. People want to work with them.
+
+00:28:29:07 - 00:28:34:12
+Unknown
+So every one of these links is inside of another insurance company system.
+
+00:28:34:16 - 00:28:37:12
+Unknown
+And this is the API strategy that I described a couple of minutes ago.
+
+00:28:37:15 - 00:28:48:29
+Unknown
+And then I have one more interesting one I want to pull up here. This is Neptune against the two names, the two largest site names in the flood insurance space flood smart.gov, which is the government's own flood insurance site,
+
+00:28:49:02 - 00:28:55:21
+Unknown
+and right flood, which is the biggest nfip carrier and the most credible private competitor to Neptune.
+
+00:28:55:24 - 00:28:59:08
+Unknown
+A year ago, Neptune was the smallest of the three.
+
+00:28:59:13 - 00:29:08:28
+Unknown
+Now, in August of 2026, Neptune is the largest. It had 155,000 visitors, compared to Wright's 95,000. In the government, 68,000.
+
+00:29:09:00 - 00:29:19:00
+Unknown
+Now, of course, traffic doesn't necessarily equate policies, but this is definitely a signal that we can use to see that Neptune is growing really well, especially over the past few months.
+
+00:29:19:03 - 00:29:33:29
+Unknown
+So of course, I'm going to take a really brief look at their ads. But you know, like I said, advertising doesn't even, you know, take up a line on their expense statement. It just goes into their general operating expenses. So and as we saw through similar web as well, they're not spending a lot of money to get customers through ads.
+
+00:29:33:29 - 00:29:36:12
+Unknown
+But I still thought I'd take a look at it so you guys can see.
+
+00:29:36:17 - 00:29:46:21
+Unknown
+So here we have meta. We can see that they started running some ads fairly simple over the past few months. This is all available on Meta Ads library. You can take a look at it and it just goes to the landing pages.
+
+00:29:46:21 - 00:29:55:10
+Unknown
+And then here we have Google. This is a one channel that they do spend on. Roughly 50 to $60,000 a month is what they're spending on this estimated by similar web.
+
+00:29:55:13 - 00:30:01:04
+Unknown
+Well, it's also interesting here is that they actually doubled their spend, but the total clicks they got
+
+00:30:01:04 - 00:30:15:13
+Unknown
+went down over the past year. So it shows that, you know, flood insurance keywords are actually getting more expensive. And they're paying a lot to hold this corner of the market. But again fortunately they're not fighting over, you know, the inflation of ad costs.
+
+00:30:15:14 - 00:30:22:15
+Unknown
+They they will inject themselves into this organic channel of basically this army of insurance agents that can sell your product.
+
+00:30:22:19 - 00:30:33:03
+Unknown
+And by the way, I also thought I mentioned one more tool that I use when I'm researching companies. It's called Internet Archive, where you can basically throw in any company's website and you can see how it's changed throughout history.
+
+00:30:33:05 - 00:30:40:00
+Unknown
+So I threw in Neptune's and you can see, I mean, you know, when they were starting the website, you know, no offense, but it was pretty bad,
+
+00:30:40:00 - 00:30:50:03
+Unknown
+you know, much worse compared to what it is today. But, you know, at the end of the you know, even then they were still, you know, printing millions of dollars in net income a year.
+
+00:30:50:05 - 00:31:08:00
+Unknown
+And it goes to show, you know, to to have a great business, you don't necessarily need to be the most tech savvy, the most, you know, customer facing in that sense of having a pretty website, you can just have a great product and sell through other channels like they've done, which is insurance agents.
+
+00:31:08:04 - 00:31:13:11
+Unknown
+All right. So as I promise, now we're going to look at the back end of their quoting system, which they call Triton.
+
+00:31:13:16 - 00:31:19:20
+Unknown
+I want to be clear that this is not ChatGPT that's determining the price of your flood insurance policy.
+
+00:31:19:25 - 00:31:26:27
+Unknown
+It's a geospatial rating engine, and really it's a much more simple mathematical machine learning model.
+
+00:31:26:29 - 00:31:37:04
+Unknown
+So here's the simplest way I would think about it. When you hit enter on that quote, three models run in about two seconds. The first one is a risk selection model,
+
+00:31:37:09 - 00:31:40:20
+Unknown
+which basically decides if they even want to ensure this house in the first place.
+
+00:31:40:23 - 00:31:44:23
+Unknown
+The second is the pricing model, which decides what is this policy worth?
+
+00:31:44:23 - 00:31:48:10
+Unknown
+And then the third one is actually quite novel. And I'll get to that part.
+
+00:31:48:11 - 00:31:54:12
+Unknown
+And then assigns the policy to around eight insurance programs backed by 45 capacity providers that they have.
+
+00:31:54:17 - 00:32:01:09
+Unknown
+Now, here's the thing that really surprised me. The inputs to their model are all the things that you could probably buy yourself online.
+
+00:32:01:15 - 00:32:12:26
+Unknown
+The flood model, as I mentioned earlier, comes from a company called Cat risk. It's a ten meter grid built from a 50,000 year simulated storm catalog, and FEMA uses the same vendor for its own Cat bonds.
+
+00:32:13:01 - 00:32:30:10
+Unknown
+The building footprints come from a company called. And there's 178 million of them. Now, real quick, I just want to interject. These are all assumptions based on the industry standard. They might use a slightly different company here, but again, I wouldn't be surprised if they're not using some of these tools.
+
+00:32:30:12 - 00:32:33:21
+Unknown
+Elevation data probably comes from USGS leader.
+
+00:32:33:23 - 00:32:38:10
+Unknown
+After a storm, they can actually get satellite flood footprints from a company called icy.
+
+00:32:38:15 - 00:32:46:10
+Unknown
+And as I showed earlier, they probably use some of the government's previous claims history that they publish for free. And you can just download in a V file.
+
+00:32:46:12 - 00:32:52:13
+Unknown
+So I'm not saying all this debt is free, but pretty much any funded team could probably license all of these tools.
+
+00:32:52:15 - 00:33:15:28
+Unknown
+I also thought I mentioned that Neptune actually acquired a business called Charles River data in 2024. And from my look, as an outsider looking in, this looks kind of like the acquirers that we're seeing right now a lot in the eye space where they acquired the business, mainly just to acquire the talent within that business. And I'm assuming, you know, that obviously added a lot to their work here with the AI models, the machine learning and, you know, building these, these pricing models for flood insurance.
+
+00:33:15:28 - 00:33:28:00
+Unknown
+So now I actually want to get into one of the patents that they were granted. So they got it granted in March of 2025. And I'm going to be honest, it's written in this incredibly generic language. So I'm going to try my best to translate it.
+
+00:33:28:03 - 00:33:37:20
+Unknown
+So to my understanding, what this patent does is that every carrier backing Neptune has a limit on how much risk they can hold in one area.
+
+00:33:37:20 - 00:33:43:19
+Unknown
+So when I hit enter, Neptune will draw these circles around the house that I'm looking to ensure.
+
+00:33:43:19 - 00:33:59:27
+Unknown
+And it will look at the existing homes within that circle that already have coverage. And it will then route my house to the capacity provider. That is the best risk adjusted provider from my home, so that the risk is diversified across all of the homes within that circle.
+
+00:34:00:02 - 00:34:04:08
+Unknown
+And I guess for reference, traditional insurers usually manage this by county.
+
+00:34:04:13 - 00:34:11:03
+Unknown
+And they usually do this after the fact, not before they actually, you know, offer the insurance policy.
+
+00:34:11:03 - 00:34:16:25
+Unknown
+So Neptune actually does this per house per quote before the policies even, you know, granted.
+
+00:34:17:00 - 00:34:23:08
+Unknown
+Now we also thought I'd note, if you do want to dive a little bit deeper, you can actually find their API docs that they have,
+
+00:34:23:08 - 00:34:25:20
+Unknown
+using a tool called postman.
+
+00:34:25:20 - 00:34:27:07
+Unknown
+You know, all this is front facing and,
+
+00:34:27:07 - 00:34:32:16
+Unknown
+it basically just shows you how if you wanted to implement the API, but obviously you can't do it if you're not a customer of theirs.
+
+00:34:32:16 - 00:34:46:17
+Unknown
+But, you know, personally, I didn't find anything crazy in here that you couldn't find within their their front end quote funnel. But if you want, you can go through this and see what it would look like if you actually wanted to implement their, you know, coding system on your website.
+
+00:34:46:20 - 00:34:56:29
+Unknown
+And again, I think it shows that they're just trying to make it as easy as possible and as frictionless for as many insurance providers and agents to just put their tool on the websites that they're already using.
+
+00:34:57:02 - 00:35:11:02
+Unknown
+So here's the question. If all of the data that they use is purchasable, and if their models are fairly easily buildable today, I mean, let's be honest, you could probably get a few people who work at a quantitative hedge fund, and they could probably spend this up in a couple of weeks.
+
+00:35:11:02 - 00:35:13:23
+Unknown
+So the question becomes, where is the moat in this business?
+
+00:35:13:29 - 00:35:17:23
+Unknown
+and according to the CEO Trevor, their model is more so a commodity.
+
+00:35:17:23 - 00:35:20:15
+Unknown
+But what's really the moat is the data behind it.
+
+00:35:20:20 - 00:35:29:13
+Unknown
+As of early 2026, Triton has run 34 million quotes. It's underwritten 13.3 million individual properties,
+
+00:35:29:16 - 00:35:32:18
+Unknown
+which is roughly 1 in 10 housing units in America.
+
+00:35:32:23 - 00:35:35:01
+Unknown
+It's bound 1.4 million policies.
+
+00:35:35:03 - 00:35:40:05
+Unknown
+It's watched over a quarter billion dollars of claims get paid through 21 hurricanes.
+
+00:35:40:05 - 00:35:47:14
+Unknown
+So all of these aspects, especially the last part, is hard to replicate, actually seeing which policies you've underwritten and which ones have paid out.
+
+00:35:47:17 - 00:35:52:16
+Unknown
+So Neptune has data on eight years of what actually happened when they used their tool,
+
+00:35:52:18 - 00:35:56:12
+Unknown
+and they've actually shipped over 500 versions of this Triton
+
+00:35:56:12 - 00:35:57:14
+Unknown
+underwriting tool.
+
+00:35:57:16 - 00:36:01:06
+Unknown
+So through every storm, every week, they make it just a little bit better.
+
+00:36:01:08 - 00:36:05:16
+Unknown
+Now I also want to be really clear about the AI framing, because I think this really matters for the credibility.
+
+00:36:05:21 - 00:36:13:00
+Unknown
+Management has described their pricing model management has described their pricing model as pretty simple algorithmic math.
+
+00:36:13:02 - 00:36:34:24
+Unknown
+In fact, they've they've said on earnings calls that they're not really seeing, you know, incredible returns on their their pricing model with the advances of AI. What they are seeing is more so on the developers when they're launching products or when it comes to customer support using. It's to enhance those functions where as they grow, they don't have to hire more people because they're just enhancing them with AI.
+
+00:36:34:25 - 00:36:43:24
+Unknown
+So now instead of customer support serving 50,000 customers, one agent can do, let's say, 100,000. I'm not sure if there's a realistic numbers, but I'm using that as a reference point.
+
+00:36:43:29 - 00:36:52:21
+Unknown
+And then also the obvious value of not having human underwriters is the cost savings of the labor, of having people literally go through underwriting every single insurance policy.
+
+00:36:52:24 - 00:37:02:28
+Unknown
+And I kind of calculated it out, you know, that that's probably saving them roughly $8 million a year of expenses, which of course is something. But at the end of the $160 million revenue, it's not anything major.
+
+00:37:03:01 - 00:37:08:14
+Unknown
+so I would argue that the greatest advantage of their algorithmic quoting system is the time component.
+
+00:37:08:19 - 00:37:19:00
+Unknown
+They can quote so many people in minutes, essentially for free, and that almost becomes their entire sales process. This, this incredible quoting system.
+
+00:37:19:03 - 00:37:23:14
+Unknown
+All right. So we're going to talk about the competitive landscape of the flood insurance industry.
+
+00:37:23:19 - 00:37:35:16
+Unknown
+So in my spot pensions video, I spent quite a long time looking at dozens of pensions competitors. Because really the entire industry is all of these companies fighting over the same customer using Google ads, meta ads, etc.
+
+00:37:35:18 - 00:37:37:21
+Unknown
+but flood insurance is actually quite different.
+
+00:37:37:23 - 00:37:42:16
+Unknown
+And there's really only one main competitor to Neptune, which is a government program.
+
+00:37:42:19 - 00:37:49:10
+Unknown
+The Nfip today still holds 90% of the market, and it sets the price that everyone else is pretty much compared to.
+
+00:37:49:13 - 00:37:52:18
+Unknown
+But here's an interesting stat about Neptune that I thought I would share.
+
+00:37:52:20 - 00:38:05:13
+Unknown
+Only about 20 to 25% of Neptune's growth comes from people switching away from the NFIB. 75 to 80% is net new people who had no flood insurance at all.
+
+00:38:05:16 - 00:38:17:10
+Unknown
+More than half of Neptune's new business is outside the FEMA flood zones, and three quarters of it is voluntary, meaning no bank made them actually buy it.
+
+00:38:17:15 - 00:38:25:08
+Unknown
+So it's really important to see here is that Neptune is not only taking business from the NFC, but they're expanding the entire flood insurance market.
+
+00:38:25:11 - 00:38:29:28
+Unknown
+Now again, Neptune doesn't really have that many major competitors when it comes to what they do.
+
+00:38:30:00 - 00:38:48:04
+Unknown
+the private field I'd probably say their biggest competitor is right flood which is the biggest. Write your own carrier for the Nfip. And they also recently started their own private flood insurance program, which is comparable to what Neptune does. But again, I'd argue that they're a little bit different than Neptune because Neptune doesn't even underwrite any policies for the Nfip.
+
+00:38:48:08 - 00:38:58:08
+Unknown
+I think the reason that right flood is one of the credible threats here is because they were already injected into the agent ecosystem through the NFL backed policies that they were selling.
+
+00:38:58:08 - 00:39:02:24
+Unknown
+that now. It's a lot easier for them to introduce these private policies into their existing,
+
+00:39:02:24 - 00:39:03:20
+Unknown
+networks.
+
+00:39:03:25 - 00:39:13:28
+Unknown
+But again, you know, here's another stat Neptune is somewhere around 40% of the private residential flood market, and about 7 to 9% of all residential flood in the country.
+
+00:39:13:28 - 00:39:22:15
+Unknown
+And there's one small competitor that I thought I would actually mention that I found quite interesting. This one is called Titan Flood, and it was founded in 2023,
+
+00:39:22:17 - 00:39:26:20
+Unknown
+and it was founded by Neptune's former chief operating officer.
+
+00:39:26:20 - 00:39:30:27
+Unknown
+Their private equity backed there in 15 states, and they have a $2 million coverage limit.
+
+00:39:31:01 - 00:39:34:03
+Unknown
+and I think Titan is one of these companies that I'm going to want to keep an eye on
+
+00:39:34:03 - 00:39:43:08
+Unknown
+to really test the thesis on Neptune's moat and if it's actually valid that they have a moat because of all the data that they have from being in the industry for so many years.
+
+00:39:43:08 - 00:39:52:28
+Unknown
+All right. So I'm going to be honest, I've been very positive about Neptune for this entire video. So I'm also going to play a little bit of devil's advocate here. Just because, you know, it's always a great thought practice when analyzing any business.
+
+00:39:53:01 - 00:39:58:18
+Unknown
+The first thing that I think is important to consider is what this looks like for the taxpayers in America,
+
+00:39:58:20 - 00:40:11:10
+Unknown
+because of the private insurers are using their advanced models to pick off the good risks that they want to ensure the government, the Nfip, is just going to be backing all of the policies that are the worst ones to insure.
+
+00:40:11:12 - 00:40:20:00
+Unknown
+And through this, the Nfip loss ratio will get worse and worse. They'll get further and further into debt, and taxpayers, at the end of the day, are going to be the ones who are going to be covering that.
+
+00:40:20:03 - 00:40:24:24
+Unknown
+So you could almost see that the profits are being privatized and the losses are being socialized.
+
+00:40:24:29 - 00:40:32:29
+Unknown
+Now, I would also counter that because, you know, at the end of the day, the NFIB was $20 billion in debt before Neptune even came around.
+
+00:40:33:05 - 00:40:40:00
+Unknown
+And I'd also argue that this entire hole was dug by the subsidized pricing of the nfip, not the free market.
+
+00:40:40:01 - 00:40:48:13
+Unknown
+And I'd also argue that this hole was dug by the subsidized pricing of the nfip and not the free market activities of Neptune.
+
+00:40:48:18 - 00:40:53:25
+Unknown
+But again, I mean, I think this is something that could be discussed extensively, and that's not really what this video is about.
+
+00:40:53:26 - 00:40:59:05
+Unknown
+The only other thing that I see being a major risk for Neptune is some major catastrophe impacting them.
+
+00:40:59:10 - 00:41:18:22
+Unknown
+Because even though Neptune never actually pays out the claims of their insurer companies and reinsurer companies on the back end trust them to have a lower loss ratio. So if some catastrophe comes, let's say they have a bunch of properties in Tampa and Tampa gets completely wiped out. You know, what's that going to look like for their customer relationships?
+
+00:41:18:22 - 00:41:37:19
+Unknown
+Will their capacity that they're able to cover go down because insurance companies don't want to back them anymore? And that could become a negative, you know, spiral. But again, I would argue the fact that these are smart people that are using advanced models, and I wouldn't think that they're covering excessive risk and let's say one zone such as Tampa.
+
+00:41:37:19 - 00:41:42:14
+Unknown
+And then another risk that I see in Neptune's business model is the replicability component.
+
+00:41:42:19 - 00:41:47:27
+Unknown
+Titan flood. You know, like I just illustrated the exist. You know, how many more of those could you build?
+
+00:41:47:27 - 00:41:55:27
+Unknown
+And now with the use of AI, it makes the friction to building new software products so much simpler and so much more democratized.
+
+00:41:55:29 - 00:42:01:02
+Unknown
+In fact, Neptune actually listed this in their risk factors in their S-1 filings.
+
+00:42:01:06 - 00:42:05:11
+Unknown
+So here's my verdict. I mean, at the end of the day, this is one of the best business models I've ever studied.
+
+00:42:05:13 - 00:42:11:26
+Unknown
+The things that would start to make me change my mind are if the lost ratios start to drift from, let's say, 20% to 50%.
+
+00:42:12:01 - 00:42:14:13
+Unknown
+Their modeling is not as good as it looks anymore.
+
+00:42:14:18 - 00:42:20:05
+Unknown
+If they have a major capacity provider or a bunch of capacity providers, just walk away during a bad season.
+
+00:42:20:08 - 00:42:23:08
+Unknown
+But other than that, I think everything else is just noise.
+
+00:42:23:09 - 00:42:42:03
+Unknown
+So remember at the beginning of the video where I talked about Trevor Burgess and his incredible skill of weaving this great small business idea with his operational expertise and his capital markets understanding. Well, in this chapter, this is where we're actually going to dive really deep into those financial engineering and capital markets components behind Neptune.
+
+00:42:42:03 - 00:42:44:26
+Unknown
+So I think first we should take a look at the funding history of this company.
+
+00:42:44:26 - 00:42:52:15
+Unknown
+so they had a $2 million seed round from Trevor in 2018. And then from there pretty much nothing. No series A, no series B.
+
+00:42:52:20 - 00:42:53:24
+Unknown
+No venture money.
+
+00:42:53:29 - 00:43:03:19
+Unknown
+And then in May of 2023, two private equity firms, Regal Sage Mount and FTV capital, invested roughly $230 million in the business.
+
+00:43:03:22 - 00:43:08:03
+Unknown
+And that's the entire list. Everything else was either debt that
+
+00:43:08:03 - 00:43:13:08
+Unknown
+Neptune borrowed from banks, or just money from the cash flows that were reinvested into the business.
+
+00:43:13:12 - 00:43:20:28
+Unknown
+Now, here's a number that's actually quite interesting. Before Neptune even went public, it paid its shareholders a $605 million dividend,
+
+00:43:21:03 - 00:43:27:13
+Unknown
+$605 million out of a company that at the time was doing roughly $100 million in revenue.
+
+00:43:27:15 - 00:43:29:29
+Unknown
+So how does that even work, and why is that even allowed?
+
+00:43:30:01 - 00:43:33:11
+Unknown
+Let me first illustrate this example with a lemonade stand.
+
+00:43:33:16 - 00:43:37:22
+Unknown
+So let's say you start a lemonade stand with $10 of your own money. That's your equity.
+
+00:43:37:25 - 00:43:44:03
+Unknown
+And after running the lemonade stand, you make $40 in profit. So you add that to your equity, and now your equity is $50.
+
+00:43:44:08 - 00:43:49:10
+Unknown
+And let's say you're able to, you know, make those $40 every single year. You have consistent cash flows.
+
+00:43:49:13 - 00:44:00:19
+Unknown
+So now a bank comes along and they see your lemonade stand. And they see you're making $40 in profit a year like clockwork every single year. And they're willing to lend you $200 against that.
+
+00:44:00:24 - 00:44:05:28
+Unknown
+So you take that $200 loan and you pay it all out to yourself as a dividend.
+
+00:44:06:03 - 00:44:09:01
+Unknown
+So after you do that. What does the balance sheet look like now?
+
+00:44:09:07 - 00:44:13:10
+Unknown
+So now you owe $200 to the bank. So your liabilities go up by $200.
+
+00:44:13:12 - 00:44:22:23
+Unknown
+So now your equity which is your assets minus your liabilities is 50 minus the 200. So now you have negative equity of $150.
+
+00:44:22:28 - 00:44:25:07
+Unknown
+And that's exactly what's happening with Neptune.
+
+00:44:25:11 - 00:44:30:15
+Unknown
+Neptune's book equity today is roughly -$220 million
+
+00:44:30:20 - 00:44:32:25
+Unknown
+at a $4 billion valuation.
+
+00:44:32:29 - 00:44:35:25
+Unknown
+now, at first, when you see that number, you'd probably think it's a disaster.
+
+00:44:35:28 - 00:44:41:06
+Unknown
+But after you take a look at what the business actually is, it's incredibly asset light. There's no factories.
+
+00:44:41:10 - 00:44:45:08
+Unknown
+there's no inventory. They don't have to hold reserves for claims that they might have to pay out.
+
+00:44:45:10 - 00:44:51:01
+Unknown
+They have a commission stream from 300,000 policies that renew at 86% every single year.
+
+00:44:51:03 - 00:44:58:12
+Unknown
+When a bank sees that they're going to lend against that, like the lend against, let's say, a commercial property that has great tenants in it.
+
+00:44:58:16 - 00:45:02:02
+Unknown
+so the negative equity here doesn't mean that the business is losing money.
+
+00:45:02:02 - 00:45:07:06
+Unknown
+It's just a sign that the business is making good money. But the owners wanted to take it out early.
+
+00:45:07:10 - 00:45:13:23
+Unknown
+So the debt today is a $260 million revolving credit facility, with around $251 million of that drawn today.
+
+00:45:13:25 - 00:45:19:02
+Unknown
+Sometimes you might hear this revert. Sometimes you might hear this referred to as a revolver.
+
+00:45:19:04 - 00:45:25:05
+Unknown
+But if I were to explain this simply essentially what a revolving credit facility is, think about it kind of like a credit card for a company.
+
+00:45:25:07 - 00:45:34:29
+Unknown
+It's a loan that they get from the bank, but it's not a one time loan. It's revolving. So they could loan that 250 million, and if they pay it back, it's still there and they can draw from it whenever they want.
+
+00:45:34:29 - 00:45:36:17
+Unknown
+And then let's talk about the IPO.
+
+00:45:36:19 - 00:45:42:23
+Unknown
+So in October 1st 2025 they listed on the New York Stock Exchange under ticker.
+
+00:45:42:25 - 00:45:45:12
+Unknown
+They sold 18.4 million shares
+
+00:45:45:17 - 00:45:47:05
+Unknown
+at a price of $20.
+
+00:45:47:08 - 00:45:51:04
+Unknown
+So this was for a total of $368 million.
+
+00:45:51:09 - 00:45:53:02
+Unknown
+But here's the interesting detail.
+
+00:45:53:05 - 00:45:56:26
+Unknown
+From this IPO. The company got $0.
+
+00:45:57:01 - 00:46:04:27
+Unknown
+Every single share that was sold in. Every dollar that was raised went into the pockets of existing shareholders. So the IPO really
+
+00:46:04:27 - 00:46:07:05
+Unknown
+served as a liquidity event for Neptune.
+
+00:46:07:08 - 00:46:11:07
+Unknown
+And then one more thing I want to touch on is the way that they structured their shares.
+
+00:46:11:09 - 00:46:14:14
+Unknown
+So right before the IPO they did a 10 to 1 stock split.
+
+00:46:14:17 - 00:46:17:13
+Unknown
+And they set up two classes of stock class A and class B
+
+00:46:17:18 - 00:46:20:21
+Unknown
+class A, which is the one that you can buy on the public markets.
+
+00:46:20:21 - 00:46:22:07
+Unknown
+And you get one vote per share.
+
+00:46:22:14 - 00:46:26:06
+Unknown
+And then there's the class B stock which is fully owned by the CEO Trevor.
+
+00:46:26:08 - 00:46:29:20
+Unknown
+And for every share of class B stock he gets ten votes.
+
+00:46:29:23 - 00:46:37:18
+Unknown
+So he owns roughly a third of the economics, but he has about 82% of the vote in the business, which makes it a controlled company.
+
+00:46:37:22 - 00:46:43:09
+Unknown
+this is very similar to how Meta's operated as a business. They're also a controlled company. Mark Zuckerberg has,
+
+00:46:43:09 - 00:46:44:20
+Unknown
+dominant voting power.
+
+00:46:44:20 - 00:46:51:20
+Unknown
+And then after the IPO in May of 2026, the private equity firm sold about $300 million more
+
+00:46:51:20 - 00:46:59:23
+Unknown
+in a secondary offering at a price of $27.50. And the company itself bought back about a million shares.
+
+00:46:59:23 - 00:47:13:14
+Unknown
+So I think the lesson that I take from all of this is that in order to build a great company, not only do you need a great product, a great idea, great operations, but you also need to have an understanding of capital markets and how you can utilize them to grow your business.
+
+00:47:13:14 - 00:47:25:27
+Unknown
+For example, as CEO, Trevor had the humility to understand when it was a good time to bring in private equity sponsors and give up a piece of the pie in order to actually turn the business into something so much bigger.
+
+00:47:25:27 - 00:47:48:24
+Unknown
+So we just went through the incredible business of Neptune Flood Insurance. And in this chapter, I want to go through the key principles and mechanisms that make Neptune what is today a $4 billion company, $160 million in revenue, 60% EBITDA margins with only 60 ish employees. I mean, it's unbelievable, but I think there's a lot of these lessons and principles and mechanisms that you can take from Neptune and apply into your business.
+
+00:47:48:24 - 00:47:52:14
+Unknown
+So this is a really important chapter and I'm excited to dive into it.
+
+00:47:52:19 - 00:48:05:06
+Unknown
+So here's a really, really great principle that applies to so many businesses, which is recurring revenue. It's the entire reason why software businesses are valued so well. It's the whole reason why MGA is do so well. Recurring revenue.
+
+00:48:05:09 - 00:48:11:26
+Unknown
+Like I said, when 86% of their customers stay, 93% of the revenue dollars stay over the next year.
+
+00:48:11:27 - 00:48:25:03
+Unknown
+when you have recurring revenue, it allows for such an incredible compounding effect where, like I said, with Neptune, if they don't sell another customer this year, they're still going to have roughly 90 to 93% of the revenue that they had last year.
+
+00:48:25:03 - 00:48:31:04
+Unknown
+So that's an incredible position to be in. And I would seek recurring revenue in any business that you start.
+
+00:48:31:07 - 00:48:38:24
+Unknown
+The next incredible mechanism that Neptune implements is the borrowed distribution of the existing insurance agent network.
+
+00:48:38:26 - 00:48:50:03
+Unknown
+So the principle here is if you have a product, find a sales force that already exists and make it frictionless for them to sell your product rather than building the entire sales force internally.
+
+00:48:50:05 - 00:49:09:25
+Unknown
+Because by doing so, it allows Neptune to be so capital and resource efficient where they can run this business with 60 people, yet they have an entire force nationwide selling their product, and they only have to pay them a commission when revenue enters their door. This is one of the best positions you can be in in a business.
+
+00:49:09:27 - 00:49:17:21
+Unknown
+Here's another great principle. And honestly, I might make a whole separate video on this. It's understanding the value chain of your industry.
+
+00:49:17:24 - 00:49:41:05
+Unknown
+You know, I vividly remember I was in the gym and I was thinking about this because I made a video earlier about the running shoe brand on cloud. And I thought to myself, why is it that on cloud, this running shoe brand is worth so much money when they have such a smaller team? At the end of the day, the work that they're doing is not nearly as complex as the actual companies that manufacture the shoes for them.
+
+00:49:41:05 - 00:50:03:08
+Unknown
+All they're doing is designing them and iterating them and marketing them. Right. That's that's not nearly as complex as as making the shoes and running these factories. And it's much more asset light. So I was wondering, well, why is on running so much more valuable? And it's because you have to understand the value chain and which companies within the value chain get rewarded.
+
+00:50:03:13 - 00:50:13:16
+Unknown
+As we can see within the insurance industry. It's the MGA within the running shoe business. It's usually not the manufacturers, it's the consumer brands, whether it's Nike or on,
+
+00:50:13:18 - 00:50:25:27
+Unknown
+So again I think this is a really important principle where it's understand the value chain of your industry and inject yourself where you get the best value and the best returns within that value chain.
+
+00:50:26:02 - 00:50:43:24
+Unknown
+I hope that makes sense. I mean, one more example I can make to drive this home is one of the businesses that I really love is chomps. They sell a consumer packaged goods protein beef sticks. And when I think about their business, you know, their value chain, it starts all the way from the farmers, you know, in New Zealand that are harvesting this beef.
+
+00:50:43:26 - 00:51:08:22
+Unknown
+And then you have the co packing facilities that have these huge manufacturing facilities. The people that are making these sticks and then chops this asset light business that's worth over $1 billion. And what they do is they leverage, you know, the distribution networks within grocery stores. They have marketing teams, but they don't own the factories. They're not harvesting the cows, and they're capturing the most value within the value chain.
+
+00:51:08:23 - 00:51:24:25
+Unknown
+Now, I'm not saying they're not worth a lot. I think they're co packers also really valuable business, but they're just not as much of an optimal position within the value chain as chomps. Maybe I'm wrong here. If I'm wrong here, comment below. But that's the way I see this principle.
+
+00:51:24:29 - 00:51:45:26
+Unknown
+think this also ties into the value chain principle a little bit, but it's look at your balance sheet risks and where you can offload it in any way. So whether it's in consumer packaged goods, that's obviously having a co packer doing the manufacturing stuff and the asset heavy stuff for you, or whether it's an insurance, it's being the MGA and having the carrier take the actual underwriting risk.
+
+00:51:45:28 - 00:51:54:07
+Unknown
+And just applying this principle in whatever industries where if there's any way in which you can offload some of those balance sheet risks, you should probably do it.
+
+00:51:54:09 - 00:52:10:12
+Unknown
+I think another great principle from Neptune is having a lean team. And, you know, I know Sam Altman talks about these one person billion dollar AI businesses. And although Neptune isn't one person, I think they're really close to it. And I think they're a great example of where you can take it. I mean, they're literally a public company.
+
+00:52:10:12 - 00:52:29:01
+Unknown
+You know, they're using technology, they're using AI to, you know, empower their workforce. And they built this incredible enterprise with like 60 people. It's unbelievable. So I think this principle of trying to find a company or an industry where you can inject yourself, where you can capture the upside with a fairly lean team.
+
+00:52:29:03 - 00:52:47:00
+Unknown
+Now, I think this other principle might seem a little, I guess we could say bad, but I think it's just the truth. At the end of the day, the reason Neptune was able to do so well is because they they were able to see a door opening where some sector was starting to become privatized, and they had a better alternative to it.
+
+00:52:47:02 - 00:53:11:16
+Unknown
+And it's pretty easy to have a better alternative to an inefficient government operation. So I think anywhere where there's government inefficiencies and there's opportunities to provide a better solution, and there's not a lot of competitors in that space, or it's slowly becoming privatized in a sense, again, like we saw with with flood insurance, I think that could be a really great signal to, to build a great business in that place.
+
+00:53:11:16 - 00:53:17:18
+Unknown
+And, you know, it's a good thing because, you know, I believe in free markets, private enterprise and,
+
+00:53:17:19 - 00:53:18:22
+Unknown
+you know, in doing so,
+
+00:53:18:22 - 00:53:23:04
+Unknown
+you do better for the end customer. So it's really a net positive.
+
+00:53:23:09 - 00:53:28:25
+Unknown
+And then the final principle I want to leave everyone with is an understanding of capital markets. Now
+
+00:53:29:00 - 00:53:31:21
+Unknown
+I do think there's a line you walk with this,
+
+00:53:31:21 - 00:53:33:13
+Unknown
+you know, if you're building, you know,
+
+00:53:33:13 - 00:53:42:22
+Unknown
+there are cases of this where it works. But if you build your company from day one with the goal of selling it, you might have the wrong goals, the wrong intentions, and you're probably not going to build a durable business.
+
+00:53:42:24 - 00:53:48:01
+Unknown
+But I think at the end of the day, having an understanding of capital markets is incredibly important. If you want to build a great business,
+
+00:53:48:05 - 00:54:19:13
+Unknown
+All right. So at the beginning of this video I dropped all the numbers. $4 billion market cap, $160 million in revenue, 60% EBITDA margins, 60 employees. Just this incredible business. And at first it might have not made sense. Come on. Flood insurance. How are they doing this? And my goal is that through this video, you now have a better understanding of this industry, how this business works, the principles behind this business and how you can take these principles and these mental models and apply them in your work, your future company, your existing company.
+
+00:54:19:16 - 00:54:21:12
+Unknown
+So so that's really my goal with this video.
+
+00:54:21:15 - 00:54:41:10
+Unknown
+Now another thing I hope is that my passion and enthusiasm for learning about great businesses and teaching them to others was felt through watching this video. So one thing I have to say is whether you're an aspiring business owner, an existing business owner involved in capital markets, business building, anything in that sense, I'm going to leave my LinkedIn in the description and I really appreciate it.
+
+00:54:41:13 - 00:54:54:09
+Unknown
+Whether you're aspiring or involved in any way, just to reach out. I love talking to all people about all industries of business, just learning as much as I can. So my my messages are open on LinkedIn. Feel free to message me there. Or you can also leave a comment down below.
+
+00:54:54:11 - 00:55:02:10
+Unknown
+And if you got something out of this video, the most useful thing that you can do, and I'd really appreciate it, is if you can just share it to a friend who you think would also enjoy it.
+
+00:55:02:12 - 00:55:09:20
+Unknown
+If you have any feedback for this video, if you found some parts of this video really boring. If you found some parts of this video really engaging, please let me know in the comments below.
+
+00:55:09:20 - 00:55:12:02
+Unknown
+I want to make future videos as great as I can.
+
+00:55:12:09 - 00:55:22:03
+Unknown
+And with that, cheers to Neptune! I applaud the team for this incredible business that they've built. It's truly an inspiration. There's so much that we can learn from it. And cheers to the next video.
+
